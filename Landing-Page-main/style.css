@@ -1,0 +1,66 @@
+body {
+    background-color: black
+}
+
+.Home {
+    background-color:rgb(27, 26, 26);
+    color: white;
+    border-left: rgb(49, 192, 135) 5px solid;
+    position: relative;
+    border-radius: 2%;
+    padding: 0%;
+    text-align: center;
+    alignment-baseline: center;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 700px;
+    margin: 20px auto;
+    
+}
+
+.titulo {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: black;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    background-color:rgb(49, 192, 135);
+    display: flex;
+    justify-content: center;
+    padding: 0%;
+}
+
+.paragrafo {
+    margin: 0%;
+}
+
+.menu {
+    background-color: rgb(255, 255, 255);
+    text-align: right;
+    word-spacing: 30px;
+    font-size: 250%;
+    margin: 0%;
+}
+
+.contato {
+    color: white;
+}
+
+.Form {
+    background-color:rgb(27, 26, 26);
+    color: white;
+    border-left: rgb(49, 192, 135) 5px solid;
+    position: relative;
+    border-radius: 2%;
+    padding: 0%;
+    text-align: center;
+    alignment-baseline: center;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 700px;
+    margin: 20px auto;
+}
+
+.service {
+    color: white;
+}
